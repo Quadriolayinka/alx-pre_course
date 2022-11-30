@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1669231883,,"q"
+|2,0,1669760674,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,7 +25,31 @@
 # Registers:
 
 # File marks:
+'0  1  0  ~/0x02_vi/inserting
+|4,48,1,0,1669760674,"~/0x02_vi/inserting"
+'1  1  0  ~/0x02_vi/cutting
+|4,49,1,0,1669759033,"~/0x02_vi/cutting"
+'2  1  0  ~/0x02_vi/inserting
+|4,50,1,0,1669758565,"~/0x02_vi/inserting"
 
 # Jumplist (newest first):
+-'  1  0  ~/0x02_vi/inserting
+|4,39,1,0,1669760674,"~/0x02_vi/inserting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1669759033,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1669759033,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/inserting
+|4,39,1,0,1669758565,"~/0x02_vi/inserting"
+-'  1  0  ~/0x02_vi/inserting
+|4,39,1,0,1669758565,"~/0x02_vi/inserting"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x02_vi/inserting
+	*	1669760669	0
+	"	1	0
+
+> ~/0x02_vi/cutting
+	*	1669758747	0
+	"	1	0
